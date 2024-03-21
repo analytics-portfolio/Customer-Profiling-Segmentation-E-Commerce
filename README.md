@@ -2,7 +2,7 @@
 ![E-Commerce Marketing Strategy Challenge](reports/images/commerce.jpeg)
 
 ## 🌐 Overview
-The project demonstrates how this customer relationship analytics framework can turn sales and customer service data into insights for smarter business choices. It enhances sales, customer service, and marketing by:
+The project demonstrates how this customer relationship analytics framework can turn sales and customer service data into insights for smarter business decision-making process. It enhances sales, customer service, and marketing by:
 - **Validating Customer Data**: Pinpoint insights for targeted marketing, ensuring the marketing strategy reach the right audience.
 - **Understanding Customer Behavior**: Learn spending patterns and preferences to tailor marketing efforts.
 - **Boosting Lead Generation**: Identify which marketing tactics drive sales and apply them more broadly to potentially increase revenue.
